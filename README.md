@@ -1,4 +1,14 @@
 # image_search
+new stuff<br>
+local_features = DoG+HardNet8 <br>
+global_features = beit + aQE + pcaw 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qwertyforce/image_search/blob/main/phash_new.ipynb) phash <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qwertyforce/image_search/blob/main/rgb_hist_new.ipynb) rgb_histogram <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qwertyforce/image_search/blob/main/global_features.ipynb) global_features <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qwertyforce/image_search/blob/main/local_features.ipynb) local_features <br>
+
+============================<br>
 https://habr.com/ru/post/550528/ <br>
 Google Colab:<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ioAfqaBqkFzotcut8W8AC861eAzeQK_3?usp=sharing) phash <br>
