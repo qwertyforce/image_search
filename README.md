@@ -3,7 +3,7 @@ new stuff<br>
 local_features = DoG+HardNet8 <br>
 global_features = beit + aQE + pcaw 
 image_text_features = CLIP ViT B/16 + aQE  
-
+How it works: [how_it_works.md](https://github.com/qwertyforce/ambience/blob/main/how_it_works_search.md)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qwertyforce/image_search/blob/main/phash_new.ipynb) phash <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qwertyforce/image_search/blob/main/rgb_hist_new.ipynb) rgb_histogram <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qwertyforce/image_search/blob/main/global_features.ipynb) global_features <br>
